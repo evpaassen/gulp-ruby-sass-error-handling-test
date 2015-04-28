@@ -1,0 +1,12 @@
+{
+  "name": "gulp-ruby-sass-error-handling-test",
+  "version": "1.0.0",
+  "description": "Just a test project.",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "3.8.11",
+    "gulp-ruby-sass": "1.0.5",
+    "gulp-util": "3.0.4"
+  },
+  "author": "Erik van Paassen"
+}
